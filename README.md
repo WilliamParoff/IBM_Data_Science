@@ -1,2 +1,2 @@
-# IBM_Data_Science
+# IBM Data Science
 This was created while going through the IBM data science course on Coursera.
